@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Gozubuyuk</h1>
 <h3 align="center">I am studying 1st year Computer Programming at Istanbul Atlas University.</h3>
 
-- 📫 How to reach me **furkan.gozubuyuk.st.atlas.edu.tr**
+- 📫 How to reach me **furkan.gozubuyukk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
