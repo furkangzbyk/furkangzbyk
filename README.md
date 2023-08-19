@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Gozubuyuk</h1>
-<h3 align="center">I am studying 1st year Computer Programming at Istanbul Atlas University.</h3>
+<h3 align="center">I am studying 2st year Computer Programming at Istanbul Atlas University.</h3>
 
 - 📫 How to reach me **furkan.gozubuyukk@gmail.com**
 
