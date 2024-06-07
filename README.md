@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Gozubuyuk</h1>
-<h3 align="center">I graduated from Istanbul Atlas University.</h3>
+<h3 align="center">I am a graduate of the Computer Programming program at Istanbul Atlas University.</h3>
 
 - 📫 How to reach me **furkan.gozubuyukk@gmail.com**
 
